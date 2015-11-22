@@ -1,0 +1,9 @@
+Timestamp
+What would be the final donation total at the end of the Desert Bus stream?
+What would be the top point score achieved during the run?
+How many total points will be scored during the run?
+How many total crashes will be achieved during the run?
+Which driver will raise the most money donated?
+Which driver will raise the second most money donated?
+How many total lines of text will be recorded in the Twitch chat from the start of the run until the 
+end?
